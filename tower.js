@@ -76,10 +76,11 @@ function initializeDisks(pegMap) {
     pegFactory(pegId, 0, pegId, 'peg');
   });
 }
-
+// functions to move the disks
 function makeMove() {
   if (counter == 0) {
-    let nDisks = 5;
+    let nDisks = 5; // default disks to start is 5
+    // get the users input
     if (document.getElementById('numDisk').value) {
       nDisks = document.getElementById('numDisk').value;
     }
