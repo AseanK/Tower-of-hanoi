@@ -8,4 +8,6 @@ To run this code, you have to enter the number of disks you want to play with an
 I'd like to make it an actual puzzle that users can interact. I want users to actually play this puzzle themselves. I'd also like to work on the styling.
 
 ## License
-MIT Professinal Certificate in Coding: Full Stack Development with MERN
+MIT Professinal Certificate in Coding: Full Stack Development with MERN (2022)
+
+<sub>online course</sub>
